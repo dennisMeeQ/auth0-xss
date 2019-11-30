@@ -1,2 +1,2 @@
-# auth0-xss
-XSS showcase in an Auth0 SPA
+# auth0-react-express
+OAuth/OIDC implementation using Auth0, React and Express
